@@ -1,2 +1,2 @@
-# Pong_proj101
+# Pong_Galaxy_Pong
 Game Dev project
